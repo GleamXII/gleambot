@@ -1,0 +1,2 @@
+# gleambot
+Discord Bot (GleamBot)
